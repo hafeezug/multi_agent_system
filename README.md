@@ -56,8 +56,8 @@ multi-agent-chat-system/
 
 ## 🚀 Running Locally
 
-```bash
-git clone <your-repo-url>
+```
+git clone https://github.com/hafeezug/multi_agent_system
 cd multi_agent_chat
 python -m venv venv
 source venv/bin/activate
@@ -71,7 +71,7 @@ Outputs for the five scenarios will be saved in `outputs/`.
 
 ## 🐳 Running with Docker
 
-```bash
+```
 docker-compose build
 docker-compose up
 ```
