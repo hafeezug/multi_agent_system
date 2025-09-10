@@ -95,10 +95,3 @@ docker-compose up
 - **Vector Search**: Semantic retrieval using sentence-transformers.
 
 ---
-
-## 📝 Evaluation Criteria
-- Modular system design
-- Memory with context awareness
-- Agent collaboration
-- Traceability (see `outputs/memory_trace.json`)
-- Dockerized project
