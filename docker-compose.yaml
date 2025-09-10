@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  multi-agent:
+    build: .
+    container_name: multi_agent
+    volumes:
+      - ./:/app
+    command: python -m app.run_console

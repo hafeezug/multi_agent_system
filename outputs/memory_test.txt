@@ -1,0 +1,13 @@
+Q: What did we discuss about neural networks earlier?
+Research:
+- CNNs: convolutional neural networks suited for image data. (score=0.22)
+- CNNs: convolutional neural networks suited for image data. (score=0.22)
+- CNNs: convolutional neural networks suited for image data. (score=0.22)
+- CNNs: convolutional neural networks suited for image data. (score=0.22)
+- Adam: adaptive moment estimation combining momentum and RMSprop. (score=0.22)
+Analysis:
+- Adam: adaptive moment estimation combining momentum and RMSprop. (score=0.9)
+- CNNs: convolutional neural networks suited for image data. (score=0.5)
+- CNNs: convolutional neural networks suited for image data. (score=0.5)
+- CNNs: convolutional neural networks suited for image data. (score=0.5)
+- CNNs: convolutional neural networks suited for image data. (score=0.5)
